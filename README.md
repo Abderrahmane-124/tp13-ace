@@ -1,5 +1,3 @@
-<img width="1794" height="958" alt="Screenshot 2026-01-02 161149" src="https://github.com/user-attachments/assets/5850217b-0e45-43be-82f6-8452f53e4cc4" /># TP 13 - Web Service SOAP avec JAX-WS et Spring Boot
-
 ## Description
 
 Ce projet implémente un service web SOAP pour la gestion de comptes bancaires en utilisant **Spring Boot** et **Apache CXF**.
