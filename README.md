@@ -1,4 +1,4 @@
-# TP 13 - Web Service SOAP avec JAX-WS et Spring Boot
+<img width="1794" height="958" alt="Screenshot 2026-01-02 161149" src="https://github.com/user-attachments/assets/5850217b-0e45-43be-82f6-8452f53e4cc4" /># TP 13 - Web Service SOAP avec JAX-WS et Spring Boot
 
 ## Description
 
@@ -96,13 +96,9 @@ mvn spring-boot:run
 </soapenv:Envelope>
 ```
 
-## Test avec SoapUI
+## Captures d'ecran
+<img width="1794" height="958" alt="Screenshot 2026-01-02 161149" src="https://github.com/user-attachments/assets/01a4023d-d961-498b-aa04-ccf17623496f" />
+<img width="1737" height="540" alt="Screenshot 2026-01-02 161223" src="https://github.com/user-attachments/assets/894b7679-fa83-4c14-92bf-894173a79819" />
+<img width="1807" height="547" alt="Screenshot 2026-01-02 161236" src="https://github.com/user-attachments/assets/8c202291-a743-4d56-a012-434d7b09c829" />
+<img width="1819" height="627" alt="Screenshot 2026-01-02 161214" src="https://github.com/user-attachments/assets/94848fbf-10ae-4dcb-8279-776ecd9f2a60" />
 
-1. Télécharger [SoapUI](https://www.soapui.org/downloads/soapui/)
-2. Créer un nouveau projet SOAP
-3. Importer le WSDL : `http://localhost:8082/services/ws?wsdl`
-4. Tester les différentes opérations
-
-## Auteur
-
-TP réalisé dans le cadre du cours **Architecture Composants d'Entreprise** - 5IIR
